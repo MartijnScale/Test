@@ -1,5 +1,3 @@
-Copyright (c) Tinkertanker Pte Ltd
-
 All rights reserved.
 
 MIT License
