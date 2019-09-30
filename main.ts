@@ -362,8 +362,8 @@ namespace OLED {
     00191D1712
     003C3C3C3C
     0000000000`
-        loadStarted = false
-        loadPercent = 0
+        // loadStarted = false
+        // loadPercent = 0
         clear()
     }
 }
