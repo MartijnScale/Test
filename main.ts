@@ -74,7 +74,7 @@ namespace OLED {
 
         // charX = xOffset
         // charY = yOffset
-        command(SSD1306_DISPLAYON);
+        command(SSD1306_DISPLAYON)
     }
 
     function drawLoadingFrame() {
